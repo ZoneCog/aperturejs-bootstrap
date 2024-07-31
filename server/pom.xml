@@ -345,4 +345,10 @@
       <url>file:///home/runner/work/aperturejs-bootstrap/aperturejs-bootstrap/repo</url>
     </repository>
   </repositories>
+  <repositories>
+    <repository>
+      <id>local-repo</id>
+      <url>file:///home/runner/work/aperturejs-bootstrap/aperturejs-bootstrap/repo</url>
+    </repository>
+  </repositories>
 </project>
